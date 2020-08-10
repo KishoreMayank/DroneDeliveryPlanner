@@ -1,4 +1,4 @@
-# Mayank Kishore - Zipline Software Engineering Candidate
+# Mayank Kishore
 # Solution Description:
     # GOAL: Try to create the lowest amount of stall time (no drones sent because all drones are active)
     # Create a graph of connected hospitals
